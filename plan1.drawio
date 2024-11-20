@@ -1,0 +1,49 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="24.8.6">
+  <diagram name="Page-1" id="2Z8jEh14dlPa63dg9f40">
+    <mxGraphModel dx="1050" dy="522" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="eL3PFk9aeRYfNXb0dsGG-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="eL3PFk9aeRYfNXb0dsGG-9" target="eL3PFk9aeRYfNXb0dsGG-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eL3PFk9aeRYfNXb0dsGG-9" value="A user login" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="30" y="90" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="eL3PFk9aeRYfNXb0dsGG-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="eL3PFk9aeRYfNXb0dsGG-11" target="eL3PFk9aeRYfNXb0dsGG-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eL3PFk9aeRYfNXb0dsGG-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="eL3PFk9aeRYfNXb0dsGG-11" target="eL3PFk9aeRYfNXb0dsGG-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eL3PFk9aeRYfNXb0dsGG-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="eL3PFk9aeRYfNXb0dsGG-11" target="eL3PFk9aeRYfNXb0dsGG-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eL3PFk9aeRYfNXb0dsGG-11" value="click plan on the menu" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="160" y="90" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="eL3PFk9aeRYfNXb0dsGG-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="eL3PFk9aeRYfNXb0dsGG-13" target="eL3PFk9aeRYfNXb0dsGG-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eL3PFk9aeRYfNXb0dsGG-13" value="Switch max conversions and enter the the total budget&lt;div&gt;max output -&amp;gt; min cost&amp;nbsp;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="310" y="10" width="140" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="eL3PFk9aeRYfNXb0dsGG-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="eL3PFk9aeRYfNXb0dsGG-15" target="eL3PFk9aeRYfNXb0dsGG-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eL3PFk9aeRYfNXb0dsGG-15" value="The R will recalculate the values and return the new values" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="510" y="75" width="110" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="eL3PFk9aeRYfNXb0dsGG-17" value="The previous values are replaced with the new result" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="680" y="75" width="100" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="eL3PFk9aeRYfNXb0dsGG-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="eL3PFk9aeRYfNXb0dsGG-20" target="eL3PFk9aeRYfNXb0dsGG-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eL3PFk9aeRYfNXb0dsGG-20" value="Switch to the minimum cost and enter the desired output&lt;div&gt;min cost -&amp;gt; max output&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="310" y="140" width="140" height="105" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
